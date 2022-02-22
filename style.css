@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300&family=Source+Code+Pro&display=swap");
+
+body {
+  font-family: "Poppins";
+}
+
+h2 {
+  font-weight: 600;
+}
+
+p {
+  font-weight: 500;
+  font-size: 18px;
+}
+
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #8bfac6;
+}
+
+#tugas {
+  background-color: #8bfac6;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+@media screen and (min-width: 1280px) {
+  .link:hover {
+    background-color: #0ada79;
+  }
+}
